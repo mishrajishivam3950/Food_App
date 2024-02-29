@@ -11,6 +11,9 @@ npm (Node Package Manager) or yarn
 Getting Started
 To start the Food Delight server and run the application, follow these steps:
 
+### `npm install`
+### `npm run dev`
+
 Clone the repository:
 git clone https://github.com/salaimuniselvam-s/vgts-task.git
 
