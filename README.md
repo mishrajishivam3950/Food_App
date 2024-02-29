@@ -7,30 +7,32 @@ Before running the Food Delight application, ensure that you have the following 
 
 Node.js (version 14 or above)
 npm (Node Package Manager) or yarn
+
 Getting Started
 To start the Food Delight server and run the application, follow these steps:
 
 Clone the repository:
 git clone https://github.com/salaimuniselvam-s/vgts-task.git
+
 Navigate to the project directory:
 cd vgts-task
+
 Install the dependencies:
-yarn
-        or
+yarn or npm install
 
-npm install
 Start the development server:
-yarn dev
-        or
+yarn dev or npm run dev
 
-npm run dev
-Open your browser and visit http://localhost:3000 to access the Food Delight application.
-Preview
+Open your browser and visit http://localhost:3000 to access the Food Delight application.Preview
+
 Check out the preview of the Food Delight application by following this link: Food Delight Preview
 
 This video provides a visual walkthrough of the application, showcasing its features and user interface. Download & Watch the preview to get a glimpse of what Food Delight has to offer.
 
-Technologies Used
+
+
+Technologies Used:
+
 Food Delight is built using the following technologies:
 
 React.js: A JavaScript library for building user interfaces.
